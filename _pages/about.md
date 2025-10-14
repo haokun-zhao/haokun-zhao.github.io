@@ -57,8 +57,9 @@ series forecasting.
 - *2022.08 - 2022.12*, Visiting, University of California, Berkeley
 
 # 📚 Journal Reviewer
-[IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/)
-[Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
+- [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/)
+- [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
+
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
