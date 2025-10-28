@@ -17,16 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Haokun Zhao, a second-year M.S. student at UC San Diego. Previously, I obtained my bachelor’s degree from The Chinese University of Hong Kong, Shenzhen, where I was fortunate to be advised by Prof. [Jicong Fan](https://jicongfan.github.io). During Summer 2025, I was a research intern at Stony Brook University, where I collaborated with Prof. [Chenyu You](https://chenyuyou.me).
+Hi! I'm Haokun Zhao, a second-year M.S. student at UC San Diego, supervised by Prof. [Zhuowen Tu](https://pages.ucsd.edu/~ztu/). Prior to this, I received my B.E. in Computer Science and Engineering from The Chinese University of Hong Kong, Shenzhen, where I was fortunate to be advised by Prof. [Jicong Fan](https://jicongfan.github.io). I also collaborated with Prof. [Chenyu You](https://chenyuyou.me) from Stony Brook University.
 
-My research interests focus on LLMs and machine learning for health.
+My research interests broadly lie in LLMs, agents, and ML for health. I am particularly interested in developing intelligent, interpretable, and efficient AI systems for real-world scientific discovery. 
 
-**I'm actively looking for 26Fall PhD in US.** Please feel free to reach out to me via email if you believe I am a good fit for your research team. I welcome the opportunity for further discussion! Please see my [CV]() for more details.
+**I'm actively seeking Ph.D. opportunities for 2026 Fall in the US.** If you find my background and research experience align with your interests, please feel free to contact me via email. I would be delighted to discuss potential opportunities. Please see my [CV]() for more details.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+<!-- - *2025.11*:  -->
 - *2025.10*: &nbsp;🎉🎉 [TimeSeriesScientist](https://y-research-sbu.github.io/TimeSeriesScientist/) has been released, the first LLM-driven agentic framework for general time
 series forecasting.
 
@@ -42,6 +43,8 @@ series forecasting.
 [**Project**](https://y-research-sbu.github.io/TimeSeriesScientist/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - The first LLM-driven agentic framework for general time series forecasting. 
 - Produce a clear and rigorous report that makes the forecasting workflow transparent and interpretable.
+
+***Pre-print'25 (Under Review)***
 </div>
 </div>
 
@@ -56,7 +59,8 @@ series forecasting.
 - *2020.09 - 2024.07*, Undergraduate, The Chinese University of Hong Kong, Shenzhen
 - *2022.08 - 2022.12*, Visiting, University of California, Berkeley
 
-# 📚 Journal Reviewer
+# 📚 Services
+Journal Reviewer
 - [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/)
 - [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
 
@@ -65,7 +69,7 @@ series forecasting.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💬 Teaching 
-- *2023.09 - 2024.05*, Undergraduate Student Teaching Fellow (USTF), [DDA 3020 Machine Learning](https://sds.cuhk.edu.cn/en/page/1839)
+- *2023.09 - 2024.05*, Undergraduate Student Teaching Fellow (USTF), [***DDA 3020 Machine Learning***](https://sds.cuhk.edu.cn/en/page/1839)
 
 # 💻 Internships
 - *2023.07 - 2023.09*, RINO Cloud Technology, Shenzhen.
