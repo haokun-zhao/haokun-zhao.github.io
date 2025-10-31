@@ -56,8 +56,8 @@ series forecasting.
 **<u>Haokun Zhao</u>**, Qingyang Xu, Linxin Zhou, Jicong Fan
 
 <!-- [**Project**](https://y-research-sbu.github.io/TimeSeriesScientist/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- Exploit the knowledge in EHR and detect hundreds or thousands of diseases for every patient with little or even no requirement of the corresponding medical tests.
-- Significantly reduce the cost of disease detection and lower the risk of disease, making it useful for large-scale disease screening and social health security.
+- Leverage structured knowledge in EHR to enable broad-spectrum disease detection for each patient, requiring little to no direct medical testing.
+- Greatly reduce the cost and risk of disease detection, enabling large-scale, test-free screening for improved public health security.
 
 ***Pre-print'25 (Under Review)***
 </div>
