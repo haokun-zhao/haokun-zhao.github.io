@@ -48,6 +48,21 @@ series forecasting.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/framework2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Medical Test-free Disease Detection Based on Big Data]()
+
+**<u>Haokun Zhao</u>**, Qingyang Xu, Linxin Zhou, Jicong Fan
+
+<!-- [**Project**](https://y-research-sbu.github.io/TimeSeriesScientist/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- Exploit the knowledge in EHR and detect hundreds or thousands of diseases for every patient with little or even no requirement of the corresponding medical tests.
+- Significantly reduce the cost of disease detection and lower the risk of disease, making it useful for large-scale disease screening and social health security.
+
+***Pre-print'25 (Under Review)***
+</div>
+</div>
+
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
