@@ -53,7 +53,7 @@ series forecasting.
 
 [Medical Test-free Disease Detection Based on Big Data]()
 
-**<u>Haokun Zhao</u>**, Qingyang Xu, Linxin Zhou, Jicong Fan
+**<u>Haokun Zhao†</u>**, Yingzhe Bai†, Qingyang Xu, Linxin Zhou, Luqi Huang, Jicong Fan
 
 <!-- [**Project**](https://y-research-sbu.github.io/TimeSeriesScientist/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - Leverage structured knowledge in EHR to enable broad-spectrum disease detection for each patient, requiring little to no direct medical testing.
