@@ -21,7 +21,7 @@ Hi! I'm Haokun Zhao, a second-year M.S. student at UC San Diego, where I have wo
 
 My research interests broadly lie in LLMs, agentic systems, and ML for health. I am particularly interested in developing intelligent, efficient, and interpretable AI systems for real-world scientific discovery. 
 
-**I'm actively seeking fully funded Ph.D. positions for Fall 2026 in the U.S.** If you find my background and research experience align with your interests, please feel free to contact me via email. I would be happy to discuss potential research directions and collaborations. Please see my [CV](https://drive.google.com/file/d/14paDGXwZBbRpotTw6b3cN8Zfcz2G_pSe/view?usp=share_link) for more details.
+**I'm actively seeking fully funded Ph.D. positions for Fall 2026 in the U.S.** If you find my background and research experience align with your interests, please feel free to contact me via email. I would be happy to discuss potential research directions and collaborations. Please see my [CV](https://drive.google.com/file/d/1d-I2wEdpIr5ofKwiyPoEGmq0QgETbhGb/view?usp=sharing) for more details.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
